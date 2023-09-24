@@ -1,16 +1,10 @@
-# infinite_list_scroll_pagination
+# Infinite Scroll Pagination
 
-A new Flutter project.
+Packages:
+- [pull_to_refresh](https://pub.dev/packages/pull_to_refresh)
+- [http](https://pub.dev/packages/http)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Demo
+https://github.com/BolisettySujith/Infinite-Scroll-Pagination-Flutter-Example/assets/73323807/e26f37d7-88af-4d99-83d1-8fcc06a88003
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
